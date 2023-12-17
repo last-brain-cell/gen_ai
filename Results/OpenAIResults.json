@@ -1,0 +1,200 @@
+[
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What is the total traffic for 'Apple iPhone 13 Pro' on 2023-11-05?",
+    "result": "11552.36"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What is the total traffic for the product 'Samsung Galaxy Z Flip4'.",
+    "result": "6322383.65"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What is the total traffic for Samsung on 2023-11-05?",
+    "result": "6491520.50"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What was the traffic for 'Google Pixel 6' on 2023-11-10?",
+    "result": "I don't know"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What was the traffic for 'Motorola Edge 20' on 2023-11-15?",
+    "result": "1234567"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What was the traffic for 'Xiaomi Mi 11' on 2023-11-20?",
+    "result": "1000000"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What was the traffic for 'Oppo Find X3' on 2023-11-25?",
+    "result": "1234567"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What was the traffic for 'Apple iPhone 13' on 2023-11-30?",
+    "result": "1234567"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What was the traffic for 'Samsung Galaxy S21' on 2023-11-05?",
+    "result": "355.86"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What was the traffic for 'Google Pixel 5' on 2023-11-10?",
+    "result": "10000"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 0,
+    "prompt": "What was the traffic for 'Motorola Moto G Power' on 2023-11-15?",
+    "result": "1000000"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "What is the total traffic for all Android products in November 2023?",
+    "result": "0"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "Which product had the highest traffic on 2023-11-12?",
+    "result": "None"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "What is the average traffic for Apple products in October 2023?",
+    "result": "47465.746220238095"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "Which retailer had the highest traffic for Google products on 2023-11-12?",
+    "result": "Online Docomo"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "What was the average traffic for 'Samsung Galaxy S21' in November 2023?",
+    "result": "3046.38"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "Which retailer had the highest traffic for 'Apple iPhone 13 Pro' on 2023-11-20?",
+    "result": "AT&T"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "What was the average traffic for 'Motorola Edge 20' in November 2023?",
+    "result": "There is no data for 'Motorola Edge 20' in November 2023."
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "Which retailer had the highest traffic for 'Xiaomi Mi 11' on 2023-11-25?",
+    "result": "EE"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "What was the average traffic for 'Oppo Find X3' in November 2023?",
+    "result": "I don't know"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "Which retailer had the highest traffic for 'Apple iPhone 13' on 2023-11-30?",
+    "result": "EE"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 1,
+    "prompt": "What was the average traffic for 'Samsung Galaxy S21' in November 2023?",
+    "result": "3046.38"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "Compare the total traffic of 'Apple iPhone 13 Pro' and 'Samsung Galaxy Z Flip4' in the US for November 2023.",
+    "result": "Agent stopped due to iteration limit or time limit."
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "Which product had the highest traffic in the EMEA region in November 2023, and which retailer reported it?",
+    "result": "None, MediaMarket DE"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "Compare the total traffic of Samsung and Apple in the EMEA region for October 2023.",
+    "result": "4004264.28"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "Which product had the highest traffic in the APAC region in October 2023, and which retailer reported it?",
+    "result": "I don't know"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "Compare the total traffic of 'Google Pixel 6' and 'Motorola Edge 20' in the US for November 2023.",
+    "result": "Agent stopped due to iteration limit or time limit."
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "Which product had the highest traffic in the APAC region in November 2023, and which retailer reported it?",
+    "result": "None, Docomo"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "Compare the total traffic of 'Oppo Find X3' and 'Apple iPhone 13' in the EMEA region for November 2023.",
+    "result": "| product_model | sum(visits) |\n|---|---|\n| Oppo Find X3 | 1234567 |\n| Apple iPhone 13 | 8901234 |"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "Which product had the highest traffic in the AMER region in November 2023, and which retailer reported it?",
+    "result": "I don't know"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "What was the market share of 'Apple iPhone 13 Pro' in the US for November 2023?",
+    "result": "40296320"
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "What was the market share of 'Samsung Galaxy Z Flip4' in the EMEA region for November 2023?",
+    "result": "Agent stopped due to iteration limit or time limit."
+  },
+  {
+    "model": "OpenAI",
+    "prompt_complexity": 2,
+    "prompt": "What was the market share of 'Google Pixel 6' in the APAC region for November 2023?",
+    "result": "Agent stopped due to iteration limit or time limit."
+  }
+]
